@@ -1,0 +1,8 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "Stoplight Enterprise"
+theme: book
+publishDir: docs
+disableKinds:
+- taxonomy
+- taxonomyTerm
