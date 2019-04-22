@@ -1,0 +1,2 @@
+{{ $customStyles := resources.Get "custom.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $customStyles.RelPermalink }}">

@@ -6,3 +6,6 @@ publishDir: docs
 disableKinds:
 - taxonomy
 - taxonomyTerm
+BookMenuBundle: /menu
+BookSection: "*"
+BookEnableJS: true
