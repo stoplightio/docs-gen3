@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/docs/</loc>
+    <loc>https://stoplightio.github.io/docs-gen3/docs/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/docs/installation_guide/</loc>
+    <loc>https://stoplightio.github.io/docs-gen3/docs/installation_guide/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://stoplightio.github.io/docs-gen3/</loc>
   </url>
   
 </urlset>
