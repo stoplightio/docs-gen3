@@ -1,4 +1,4 @@
-baseURL: "http://example.org/"
+baseURL: "https://stoplightio.github.io/docs-gen3/"
 languageCode: "en-us"
 title: "Stoplight Enterprise"
 theme: book
