@@ -1,6 +1,6 @@
-# Stoplight Dojo Help Center
+# Stoplight Help Center
 
-Welcom to the Stoplight Dojo Help Center. Dojo is the latest iteration of Stoplight's tools. 
+Welcom to the Stoplight Help Center. This documentation is for the latest iteration of Stoplight's tools. 
 
 ## Other Stoplight versions
 
