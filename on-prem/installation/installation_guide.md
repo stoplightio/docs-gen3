@@ -6,7 +6,7 @@ Stoplight consists of three container services:
 
 - The frontend app
 - The backend API
-- A PostgresQL database
+- A PostgreSQL database
 
 ## Deployment environments
 
