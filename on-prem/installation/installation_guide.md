@@ -90,6 +90,6 @@ Use the following environment variables to configure our containers.
     - Expose port 4050
 11. Create a service for the Stoplight frontend:
     - Map port 443 to 4050.
-    - Add a route with a hostname, for example `stoplight-backend.$company_name.com`. Configure TLS with a certificate for your domain.
+    - Add a route with a hostname, for example `stoplight-frontend.$company_name.com`. Configure TLS with a certificate for your domain.
     - Create a CNAME with your DNS provider for the above hostname that resolves to the OpenShift router's canonical hostname.
 12. Navigate to the Stoplight frontend endpoint. If all is well, you should see an initial installation page.
