@@ -8,6 +8,15 @@ Stoplight consists of three container services:
 - Stoplight Backend
 - A PostgreSQL database
 
+## Deployment environments
+
+Stoplight supports the following deployment environments:
+
+- OpenShift
+- Unix servers
+
+This installation guide covers how to deploy to OpenShift.
+
 ## General configuration guide
 
 ### Resource requirements
