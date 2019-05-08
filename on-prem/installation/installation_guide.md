@@ -64,7 +64,7 @@ Use the following environment variables to configure our containers.
     > Note: as an alternative to creating image streams that follow dynamic tags (ex. stable), you can [manually select a version](#manually-select-an-app-and-API-version) and watch the Stoplight JSON manifest for changes.
 5. Create secrets for the secret environment variables you need to pass to each service. Refer to the [general configuration guide](#environment-variables) for the names and values of these variables.
 
-    > Note: if Postgres has been deployed from the OpenShift Postgres template, it will not require additional configuration. Simply verify that the configuration described in steps 6-8 is in place.
+    > Note: if you deploy Postgres from the OpenShift Postgres template, it does not require additional configuration. Verify that the configuration described in steps six to eight is in place.
 
 6. Create a persistent storage asset for Postgres.
 7. Create a deployment for Postgres, with the following settings:
