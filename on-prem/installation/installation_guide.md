@@ -12,7 +12,7 @@ Stoplight consists of three container services:
 
 ### Resource requirements
 
-> Note: these are estimates that will vary based on your data and usage.
+> Note: these are estimates. Actual requirements vary based on your data and usage.
 
 - Postgres: 10GB storage, 4GB memory
 - Stoplight Backend: 4GB memory
