@@ -61,7 +61,7 @@ Use the following environment variables to configure our containers.
     - [quay.io/stoplight/frontend:stable](https://quay.io/stoplight/frontend:stable)
     - [quay.io/stoplight/backend:stable](https://quay.io/stoplight/backend:stable)
 
-    > Note: as an alternative to creating image streams that follow dynamic tags (ex. stable), you can [manually select a version](#manually-select-an-app-and-API-version) and watch the Stoplight JSON manifest for changes.
+    > Note: as an alternative to creating image streams that follow dynamic tags (for example, "stable"), you can [manually select a version](#manually-select-an-app-and-API-version) and watch the Stoplight JSON manifest for changes.
 5. Create secrets for the secret environment variables you need to pass to each service. Refer to the [general configuration guide](#environment-variables) for the names and values of these variables.
 
     > Note: if you deploy Postgres from the OpenShift Postgres template, it does not require additional configuration. Verify that the configuration described in steps six to eight is in place.
