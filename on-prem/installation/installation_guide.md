@@ -4,7 +4,7 @@
 
 Stoplight consists of three container services:
 
-- Stoplight Frontend
+- Stoplight frontend
 - Stoplight Backend
 - A PostgreSQL database
 
