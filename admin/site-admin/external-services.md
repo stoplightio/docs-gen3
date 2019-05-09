@@ -11,6 +11,10 @@ Access **External Services** from the Stoplight dashboard by selecting:
 
 ## Add a new service
 
+When you add a new service, project files automatically sync.
+
+<!-- QUERY: does the external repo need to have certain files/configs/setup? -->
+
 1. Select **Add Service**. This opens a modal.
 2. Provide the details of the new service, including:
     1. **Provider**: this can be any of the supported integrations.

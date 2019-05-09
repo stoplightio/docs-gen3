@@ -18,4 +18,4 @@ Stoplight supports the following authentication providers:
     6. **Search filter**:
 3. Select **Save**.
 
-<!-- TODO: continue once this functionality is further along. At present very LDAP-focused -->
+<!-- TODO: continue once this functionality is further along. At present seems very LDAP-focused? -->
