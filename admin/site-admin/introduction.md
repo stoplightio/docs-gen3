@@ -2,8 +2,8 @@
 
 The **Site Admin** interface allows you to manage your Stoplight settings, including:
 
-- [Configure your Stoplight installation](general.md) <!-- QUERY: does this need rephrasing to cover SaaS users? -->
-- [View your organization's users](people.md) <!-- QUERY: is organization the right word? Am basing this off organizations in Next -->
+- [Configure your Stoplight installation](general.md)
+- [View your organization's users](people.md)
 - [Integrate external services](external-services.md)
 - [Add and analyze projects](projects.md)
 

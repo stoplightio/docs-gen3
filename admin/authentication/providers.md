@@ -8,6 +8,8 @@ Stoplight supports the following authentication providers:
 
 ## Add a new provider
 
+### LDAP
+
 1. Select **Add Provider**.
 2. Provide the details of the new service, including:
     1. **Name**: the name for this provider in Stoplight.
@@ -18,4 +20,10 @@ Stoplight supports the following authentication providers:
     6. **Search filter**:
 3. Select **Save**.
 
-<!-- TODO: continue once this functionality is further along. At present seems very LDAP-focused? -->
+<!-- TODO: continue once this functionality is further along -->
+
+### Active Directory
+
+### Version control service single sign on
+
+<!-- coming July -->

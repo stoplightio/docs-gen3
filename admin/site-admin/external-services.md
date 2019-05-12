@@ -3,7 +3,8 @@
 Stoplight allows you to integrate external services, such as remote code repositories, into your Stoplight organization. Stoplight supports the following integrations:
 
 - Bitbucket
-- More coming soon <!-- QUERY: which services are we going to support? -->
+- GitHub
+- GitLab
 
 Access **External Services** from the Stoplight dashboard by selecting:
 
@@ -11,12 +12,18 @@ Access **External Services** from the Stoplight dashboard by selecting:
 
 ## Add a new service
 
-When you add a new service, project files automatically sync.
+When you add a version control service, project, repositories and users automatically sync.
+
+The following mapping applies:
+
+- Bitbucket: a Bitbucket Project maps to a Stoplight Organization, while a single Bitbucket repo maps to a Stoplight Project.
+- GitHub:
+- GitLab: <!-- TODO: add mapping info when available -->
 
 <!-- QUERY: does the external repo need to have certain files/configs/setup? -->
 
 1. Select **Add Service**. This opens a modal.
-2. Provide the details of the new service, including:
+2. Provide the details of version control service connection, including:
     1. **Provider**: this can be any of the supported integrations.
     2. **Name**: choose a name to identify this service in the Stoplight interface.
     3. **API URL**: 
