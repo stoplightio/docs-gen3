@@ -12,6 +12,7 @@ $name.$version.$spec.$format
 
 - Name: required
 - Version: optional. Starts with a lowercase `v`. Separate major and minor version numbers with a hyphen `-`. For example, `v1` or `v1-1-0`.
+<!-- TODO: update info on version if it becomes compulsory, e.g. if we decide to ignore version numbers from the info block in the spec -->
 - Spec: optional, but recommended. Stoplight supports `oas` and `schema`.
 - Format: required. Stoplight supports `md`, `json`, `yaml` and `yml`.
 
