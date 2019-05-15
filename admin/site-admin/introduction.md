@@ -6,7 +6,6 @@ The **Site Admin** interface allows you to manage your Stoplight settings, inclu
 - [View your organization's users](people.md)
 - [Integrate external services](external-services.md)
 - [Add and analyze projects](projects.md)
-- [Manage authentication](authentication/introduction.md)
 
 <!-- TODO: fix the links above once I know where they will end up in the Stoplight Next project -->
 
