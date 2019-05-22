@@ -23,4 +23,4 @@ This table provides more information on the LDAP authentication parameters:
 | **URL** | The hostname and port number for your LDAP server. This is the host's fully qualifies domain name (FQDN). |
 | **Bind DN** | The distinguished name (DN) of an LDAP user. This user must have search privileges on the LDAP directory. |
 | **Bind credentials** | The password of the user specified in the Bind DN field. |
-| **Search base** | The starting location within the LDAP directory for performing user searches. Also known as the User Base DN. Select the most specific location possible to improve performance. |
+| **Search base** | The starting location within the LDAP directory for performing user searches. Also known as the User Base DN. Select the most specific location possible to improve performance. For example: `CN=users,DC=example,DC=com`, where `CN` is the relative distinguished name of the container "users" and `DC` is the DNS domain name. |
