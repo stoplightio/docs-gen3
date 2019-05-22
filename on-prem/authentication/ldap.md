@@ -1,4 +1,6 @@
-# LDAP for Active Directory
+# LDAP
+
+Stoplight supports LDAP authentication, including LDAP for Active Directory.
 
 These instructions assume you have already configured your LDAP server.
 

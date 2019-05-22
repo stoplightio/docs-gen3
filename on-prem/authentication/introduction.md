@@ -8,6 +8,6 @@ Stoplight supports the following authentication providers:
 
 - [Username and password]()
 - [Social logins]()
-- [LDAP for Active Directory]()
+- [LDAP]()
 - [Version control single sign on]()
 <!-- TODO: fix links once known -->
